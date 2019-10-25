@@ -1,6 +1,6 @@
 # auto_slide_image
 
-Widget tự chuyển hình ảnh qua lại
+Widget CarouselSlider giúp tự chuyển hình ảnh qua lại
 
 ## Screenshot
 
