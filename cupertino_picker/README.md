@@ -1,6 +1,6 @@
 # cupertino_picker
 
-Đây là một component chọn 1 giá trị trong List item trong component và hiện thị ra màn hình
+Đây là một Widget chọn 1 giá trị trong List item trong component và hiện thị ra màn hình
 
 ## Screenshot
 
